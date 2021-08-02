@@ -1,0 +1,15 @@
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\bin\Debug\Urhazo Car Rental System.exe.config
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\bin\Debug\Urhazo Car Rental System.exe
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\bin\Debug\Urhazo Car Rental System.pdb
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo Car Rental System.csprojAssemblyReference.cache
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo_Car_Rental_System.Form1.resources
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo_Car_Rental_System.Properties.Resources.resources
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo Car Rental System.csproj.GenerateResource.cache
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo Car Rental System.csproj.CoreCompileInputs.cache
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo Car Rental System.exe
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo Car Rental System.pdb
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo_Car_Rental_System.Main.resources
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo_Car_Rental_System.Car_Registration.resources
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo_Car_Rental_System.Customer.resources
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo_Car_Rental_System.rental.resources
+C:\Users\k_zab\source\repos\Urhazo Car Rental System\obj\Debug\Urhazo_Car_Rental_System.returncar.resources
